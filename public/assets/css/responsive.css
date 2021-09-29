@@ -1,0 +1,314 @@
+/*******************************************************
+    Template Name    : Truth - IT Solutions & Agency HTML Template
+    Author           : aam-developer
+    Version          : 1.0
+    Created          : 2020
+    File Description : Main Reaposive file of the template
+*******************************************************/
+
+@media only screen and (min-width: 1024px) and (max-width: 1200px) {
+    .single-process-box .box-loader {
+        right: -17%;
+    }
+    .contact-info {
+        padding: 54px 50px;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .navbar-b.navbar-trans .nav-item,
+    .navbar-b.navbar-reduce .nav-item {
+        padding-right: 0;
+    }
+    .home-area .home-content h1 {
+        font-size: 35px;
+        line-height: 1.3;
+    }
+    .home-area .home-content p {
+        font-size: 15px;
+        line-height: 1.3;
+    }
+    .home-content {
+        text-align: center !important;
+    }
+    .home-video-box {
+        display: block;
+        margin-top: 100px;
+    }
+    .right-bg {
+        width: 100%;
+    }
+    .about-img {
+        position: unset;
+        bottom: 0;
+        left: 0;
+        margin-bottom: 40px;
+    }
+    .image-1 {
+        width: 100%;
+    }
+    .process-item {
+        margin-bottom: 30px;
+    }
+    .process-item:last-child {
+        margin-bottom: 0px;
+    }
+    .single-process-box .box-loader {
+        display: none;
+    }
+    .contact-form-box {
+        margin-bottom: 40px;
+    }
+    .footer-content {
+        margin-bottom: 30px;
+    }
+    .footer-content:last-child {
+        margin-bottom: 0px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .navbar-nav {
+        margin-top: 15px;
+    }
+    .navbar-b .nav-item {
+        margin-bottom: 10px;
+    }
+    .navbar-b .nav-item:last-child {
+        margin-bottom: 0px;
+    }
+    #navbarDefault {
+        width: 100%;
+        height: 250px;
+        overflow-y: scroll;
+    }
+    .home-area .home-content h1 {
+        font-size: 33px;
+        line-height: 1.5;
+    }
+    .home-area .home-content p {
+        font-size: 17px;
+        line-height: 1.5;
+    }
+    .home-content {
+        text-align: center !important;
+    }
+    .home-video-box {
+        display: block;
+        margin-top: 100px;
+    }
+    .right-bg {
+        width: 100%;
+    }
+    .about-img {
+        position: unset;
+        bottom: 0;
+        left: 0;
+        margin-bottom: 40px;
+    }
+    .image-1 {
+        width: 100%;
+    }
+    .process-item {
+        margin-bottom: 30px;
+    }
+    .process-item:last-child {
+        margin-bottom: 0px;
+    }
+    .single-process-box .box-loader {
+        display: none;
+    }
+    .contact-form-box {
+        margin-bottom: 40px;
+        padding: 30px 20px;
+    }
+    .footer-content {
+        margin-bottom: 30px;
+    }
+    .footer-content:last-child {
+        margin-bottom: 0px;
+    }
+    .middle-nav-content {
+        padding-left: 0;
+    }
+    .footer-bottom-nav-copyright-text {
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .footer-bottom-nav {
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 479px) {
+    .navbar-nav {
+        margin-top: 15px;
+    }
+    .navbar-b .nav-item {
+        margin-bottom: 10px;
+    }
+    .navbar-b .nav-item:last-child {
+        margin-bottom: 0px;
+    }
+    .home-area .home-content h1 {
+        font-size: 28px;
+        line-height: 1.5;
+    }
+    .home-area .home-content p {
+        font-size: 17px;
+        line-height: 1.6;
+    }
+    .section-title h2 {
+        font-size: 30px;
+    }
+    .home-content {
+        text-align: center !important;
+    }
+    .home-video-box {
+        display: block;
+        margin-top: 60px;
+    }
+    .right-bg {
+        width: 100%;
+    }
+    .about-info {
+        padding-right: 0;
+    }
+    .about-info h2 {
+        font-size: 28px;
+    }
+    .about-img {
+        position: unset;
+        bottom: 0;
+        left: 0;
+        margin-bottom: 40px;
+    }
+    .image-1 {
+        width: 100%;
+    }
+    .process-item {
+        margin-bottom: 30px;
+    }
+    .process-item:last-child {
+        margin-bottom: 0px;
+    }
+    .single-process-box .box-loader {
+        display: none;
+    }
+    .contact-form-box {
+        margin-bottom: 40px;
+        padding: 30px 20px;
+    }
+    .contact-info {
+        border-radius: 5px;
+        padding: 40px 25px;
+    }
+    .contact-info ul li {
+        padding-left: 50px;
+    }
+    .footer-content {
+        margin-bottom: 30px;
+    }
+    .footer-content:last-child {
+        margin-bottom: 0px;
+    }
+    .middle-nav-content {
+        padding-left: 0;
+    }
+    .footer-bottom-nav-copyright-text {
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .footer-bottom-nav {
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 320px) and (min-width: 0px) {
+    .navbar-nav {
+        margin-top: 15px;
+    }
+    .navbar-b .nav-item {
+        margin-bottom: 10px;
+    }
+    .navbar-b .nav-item:last-child {
+        margin-bottom: 0px;
+    }
+    #navbarDefault {
+        width: 100%;
+        height: auto;
+        overflow-y: scroll;
+    }
+    .home-area .home-content h1 {
+        font-size: 26px;
+        line-height: 1.5;
+    }
+    .home-area .home-content p {
+        font-size: 16px;
+        line-height: 1.5;
+    }
+    .section-title h2 {
+        font-size: 25px;
+    }
+    .home-content {
+        text-align: center !important;
+    }
+    .home-video-box {
+        display: block;
+        margin-top: 60px;
+    }
+    .right-bg {
+        width: 100%;
+    }
+    .about-info {
+        padding-right: 0;
+    }
+    .about-info h2 {
+        font-size: 28px;
+    }
+    .about-img {
+        position: unset;
+        bottom: 0;
+        left: 0;
+        margin-bottom: 40px;
+    }
+    .image-1 {
+        width: 100%;
+    }
+    .process-item {
+        margin-bottom: 30px;
+    }
+    .process-item:last-child {
+        margin-bottom: 0px;
+    }
+    .single-process-box .box-loader {
+        display: none;
+    }
+    .contact-form-box {
+        margin-bottom: 40px;
+        padding: 30px 20px;
+    }
+    .contact-info {
+        border-radius: 5px;
+        padding: 40px 25px;
+    }
+    .contact-info ul li {
+        padding-left: 50px;
+    }
+    .footer-content {
+        margin-bottom: 30px;
+    }
+    .footer-content:last-child {
+        margin-bottom: 0px;
+    }
+    .middle-nav-content {
+        padding-left: 0;
+    }
+    .footer-bottom-nav-copyright-text {
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .footer-bottom-nav {
+        text-align: center;
+    }
+}
